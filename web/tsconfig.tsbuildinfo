@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/api/pokeapi.ts","./src/components/common.tsx","./src/logic/matchups.test.ts","./src/logic/matchups.ts","./src/pages/berries.tsx","./src/pages/pockets.tsx","./src/pages/versus.tsx","./src/store/pockets.ts"],"version":"5.6.3"}
